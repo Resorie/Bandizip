@@ -1,3 +1,2 @@
 ## Bandizip
-
-A copy of Bandizip downloader for windows.
+Bandizip is a Free zip, 7z, unzip, unrar Archiver.
